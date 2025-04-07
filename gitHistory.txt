@@ -5,3 +5,14 @@ Untracked files:
 
 nothing added to commit but untracked files present (use "git add" to track)
 Це зміни у gitHistory.txt
+commit 5df482258fc99a73648a08331440eac3a62a9936
+Author: Andrew Antonenko <andreyanton111@gmail.com>
+Date:   Mon Apr 7 13:33:58 2025 +0300
+
+    Додано файл gitHistory.txt зі  статусом перед ш після змін
+
+commit 25e6412fff8b5d6ad26f81eca5cca6cbf7670858
+Author: Andrew Antonenko <andreyanton111@gmail.com>
+Date:   Mon Apr 7 13:26:16 2025 +0300
+
+    Додано файл Readme.txt зі статусом репозиторію вмістом .git/objects i git-об'єктами
